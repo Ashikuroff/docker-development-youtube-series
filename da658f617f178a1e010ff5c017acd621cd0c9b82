@@ -1,0 +1,1 @@
+{"jobID":"e4e1ecd8-48d0-0225-32f9-1ebbaa3375eb","spec":{"type":"policy","cause":{"Message":"","User":"Ashikur \u003cashik9001@gmail.com\u003e"},"spec":{"default:deployment/example-deploy":{"add":{"tag.example-app":"glob:1.0.*"},"remove":{}}}},"result":null}
