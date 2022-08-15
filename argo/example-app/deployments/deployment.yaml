@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: example-app
-        image: aimvector/python:test1
+        image: aimvector/python:test2
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
