@@ -1,5 +1,5 @@
 resources:
-  - namespace.yaml
-  - deployment.yaml
-  - service.yaml
-  - configmap.yaml
+  - application/namespace.yaml
+  - application/deployment.yaml
+  - applictaion/service.yaml
+  - application/configmap.yaml
