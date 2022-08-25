@@ -14,7 +14,7 @@ spec:
   source:
     repoURL: https://github.com/Ashikuroff/docker-development-youtube-series.git
     targetRevision: HEAD
-    path: argo
+    path: argo/example-app
     directory:
       recurse: true
   destination:
